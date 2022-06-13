@@ -1,0 +1,23 @@
+.card-product{
+    border: 1px solid green;
+}
+
+.card-product > img{
+    width: 100%;
+    height: auto;
+}
+
+.card-product > div{
+    display: flex;
+    justify-content: space-between;
+}
+
+.card-product > div >p{
+    padding: 0;
+    margin: 0;
+    padding-left: 6px;
+    padding-right: 6px;
+    font-size: 13px;
+}
+
+
